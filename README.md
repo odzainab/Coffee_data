@@ -75,7 +75,7 @@ The analysis shows:
 ## 📊 Dashboard  
 Here’s the interactive Excel dashboard summarizing sales, quantity, and profit:  
 
-![Coffee Shop Dashboard](PUT-YOUR-DASHBOARD-IMAGE-HERE)  
+![Coffee Shop Dashboard](Assets/Coffee_Dashboard.png)  
 
 ---
 
