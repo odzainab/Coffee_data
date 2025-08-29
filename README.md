@@ -68,7 +68,7 @@ The analysis shows:
 - Sales are concentrated in the U.S., exposing market risk.  
 - Loyalty programs provide steady but modest contributions.  
 - Top 10 customers drive significant sales, but mid-tier engagement is underutilized.  
-- 2022 decline partly due to missing data — corrective measures and diversification are key for growth.  
+- 2022 decline partly due to missing data,corrective measures and diversification are key for growth.  
 
 ---
 
