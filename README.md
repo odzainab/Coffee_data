@@ -44,11 +44,11 @@ The dataset (publicly available) contains 3 sheets:
 
 ### 5. Loyalty Program Impact  
 - Loyalty customers provide **stable recurring revenue**.  
-- However, contribution has plateaued — program needs **enhanced incentives** to drive incremental growth.  
+- However, contribution has plateaued, program needs **enhanced incentives** to drive incremental growth.  
 
 ### 6. KPI Performance (YoY Change)  
 - Sales ↓ **49%**, Profit ↓ **49%**, Quantity ↓ **52%** (partly due to missing Q4 2022).  
-- Still indicates contraction in engagement & revenue — corrective actions needed.  
+- Still indicates contraction in engagement & revenue,corrective actions needed.  
 
 ---
 
