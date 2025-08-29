@@ -81,5 +81,5 @@ Here’s the interactive Excel dashboard summarizing sales, quantity, and profit
 
 ## Full Report
 
-- [Download the Full Report (PDF)](docs/Coffee_Sales_Analysis_Full_Report.pdf)  
+- [Download the Full Report (PDF)](Assets/Coffee_Full_Report.pdf)  
 - [Read the Full Report on Medium](YOUR_MEDIUM_LINK)  
